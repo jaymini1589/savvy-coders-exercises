@@ -1,4 +1,6 @@
 h2 {color: green;
     font-style: italic;
+    font-family: cursive;
 }
-body {background-color: red;}
+body {background-color: rgb (65,235,255);
+}
