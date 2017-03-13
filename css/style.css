@@ -8,6 +8,16 @@ body{background-color: red;}
 p {
   background-color: blue;
 }
-.form {
+#form {
   font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  background-color: black;
+}
+label{
+  color: blue;
+}
+textarea{
+  width:200px;
+  height: 150px;
 }
