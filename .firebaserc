@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "james-rice-portfolio"
+    "default": "james-rice-portfolio",
+    "JR": "james-rice-portfolio"
   }
 }

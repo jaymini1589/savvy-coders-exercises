@@ -1,1 +1,13 @@
 body{background-color: red;}
+.help {
+  font-style: italic;
+}
+#grip {
+  background-color: yellow;
+}
+p {
+  background-color: blue;
+}
+.form {
+  font-family: sans-serif;
+}
